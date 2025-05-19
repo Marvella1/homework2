@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54d1f023-cde9-4e7a-9999-b39595dc9da7" name="Changes" comment="Update HelloCcontroller and greeting.html; add index.html&#10;&#10;- Changed the root mapping method to return a greeting message.&#10;- Enhanced greeting.html with improved styling and additional content.&#10;- Added a new index.html file as a placeholder.">
-      <change beforePath="$PROJECT_DIR$/Readme" beforeDir="false" afterPath="$PROJECT_DIR$/Readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/Vistula/first_projet_java_spring/FirstProjetJavaSpringApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/Vistula/first_projet_java_spring/FirstProjetJavaSpringApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/Vistula/first_projet_java_spring/HelloCcontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/Vistula/first_projet_java_spring/HelloCcontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/Elie1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/elie.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +149,7 @@
       <workItem from="1747594221434" duration="437000" />
       <workItem from="1747649964583" duration="8989000" />
       <workItem from="1747667086685" duration="7890000" />
-      <workItem from="1747675454217" duration="5407000" />
+      <workItem from="1747675454217" duration="7282000" />
     </task>
     <task id="LOCAL-00001" summary="version 0000">
       <option name="closed" value="true" />
@@ -215,11 +215,30 @@
       <option name="project" value="LOCAL" />
       <updated>1747680934930</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update HelloCcontroller and greeting.html; add index.html&#10;&#10;- Changed the root mapping method to return a greeting message.&#10;- Enhanced greeting.html with improved styling and additional content.&#10;- Added a new index.html file as a placeholder.">
+      <option name="closed" value="true" />
+      <created>1747681882819</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747681882819</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version 0000" />
