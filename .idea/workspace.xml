@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="54d1f023-cde9-4e7a-9999-b39595dc9da7" name="Changes" comment="Update HelloCcontroller and greeting.html; add index.html&#10;&#10;- Changed the root mapping method to return a greeting message.&#10;- Enhanced greeting.html with improved styling and additional content.&#10;- Added a new index.html file as a placeholder.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/Elie1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/elie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +30,12 @@
     &quot;assignee&quot;: &quot;Eliemulolo&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Marvella1/project-2.git",
-    "accountId": "bfc001e4-04f7-4d28-affa-99744e5fd2fb"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Marvella1/homework2.git&quot;,
+    &quot;accountId&quot;: &quot;bfc001e4-04f7-4d28-affa-99744e5fd2fb&quot;
   }
-}]]></component>
+}</component>
   <component name="HttpClientEndpointsTabState">
     <option name="cachedRequestData" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;5e0bb8c26ee2e09f35261b9527fdb886992ca931&quot; value=&quot;###&amp;#10;GET http://localhost:8080/greeting?&amp;#10;    name={{$random.alphanumeric(8)}}&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
   </component>
@@ -73,7 +72,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/java devoires/first-projet-java-spring/first-projet-java-springmarvela/src/main/resources/static/images",
+    "last_opened_file_path": "D:/java devoires/first-projet-java-spring/first-projet-java-springmarvela",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -150,6 +149,8 @@
       <workItem from="1747649964583" duration="8989000" />
       <workItem from="1747667086685" duration="7890000" />
       <workItem from="1747675454217" duration="7282000" />
+      <workItem from="1747683169044" duration="1122000" />
+      <workItem from="1748356251213" duration="405000" />
     </task>
     <task id="LOCAL-00001" summary="version 0000">
       <option name="closed" value="true" />
@@ -223,7 +224,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747681882819</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update HelloCcontroller and greeting.html; add index.html&#10;&#10;- Changed the root mapping method to return a greeting message.&#10;- Enhanced greeting.html with improved styling and additional content.&#10;- Added a new index.html file as a placeholder.">
+      <option name="closed" value="true" />
+      <created>1747683397876</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747683397876</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update HelloCcontroller and greeting.html; add index.html&#10;&#10;- Changed the root mapping method to return a greeting message.&#10;- Enhanced greeting.html with improved styling and additional content.&#10;- Added a new index.html file as a placeholder.">
+      <option name="closed" value="true" />
+      <created>1747683470788</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1747683470788</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
