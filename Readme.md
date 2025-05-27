@@ -25,10 +25,10 @@ This project is a simple Spring Boot MVC application created for the Java Labs c
 
 ## 📸 Screenshots
 ### home OPRATION
-![OPRATION Screenshot]  ![my home page.png](my%20home%20page.png)
+![Screenshot (149)](https://github.com/user-attachments/assets/ef52ffbe-cf24-4bd5-908a-58d1dea49188)
 
 ###  Displayed name
-![Image Screenshot] ! ![name.png](name.png)
+
 
 ## 🛠 Tech Stack
 - Java 17
@@ -36,4 +36,4 @@ This project is a simple Spring Boot MVC application created for the Java Labs c
 - Spring MVC
 - Thymeleaf
 - Maven
-![Screenshot (149)](https://github.com/user-attachments/assets/ef52ffbe-cf24-4bd5-908a-58d1dea49188)
+
